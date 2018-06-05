@@ -47,8 +47,7 @@ def get_train_data_from_sim_data(csv_file, image_file):
 
     
         
-    X_train = np.array(images)
-    y_train = np.array(measurements)
+    X_train = np.array(augmented_images)
+    y_train = np.array(augmented_measurements)
     
     return X_train, y_train
-        
