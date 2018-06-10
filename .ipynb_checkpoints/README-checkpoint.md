@@ -20,9 +20,10 @@ The goals / steps of this project are the following:
 
 Result
 ---
-**Click for video**
+**Click image below for video**
 [![IMAGE ALT TEXT](./images/cover.PNG)](https://youtu.be/cWbQGb_5J1I)
 
+Detail description: [**writeup**](https://github.com/Tsuihao/CarND-Behavioral-Cloning-P3/blob/master/writeup.md)
 
 ### Dependencies
 This lab requires:
