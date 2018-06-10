@@ -20,7 +20,8 @@ The goals / steps of this project are the following:
 
 Result
 ---
-[![IMAGE ALT TEXT]()](https://youtu.be/cWbQGb_5J1I)
+**Click for video**
+[![IMAGE ALT TEXT](./images/cover.PNG)](https://youtu.be/cWbQGb_5J1I)
 
 
 ### Dependencies
