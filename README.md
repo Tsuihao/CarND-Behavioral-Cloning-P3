@@ -25,6 +25,16 @@ Result
 
 Detail description: [**writeup**](https://github.com/Tsuihao/CarND-Behavioral-Cloning-P3/blob/master/writeup.md)
 
+References
+---
+* [An augmentation based deep neural network approach to learn human driving behavior](https://chatbotslife.com/using-augmentation-to-mimic-human-driving-496b569760a9)
+    * Data augmentation skills
+* [Behavioral Cloning — make a car drive like yourself](https://medium.com/@ksakmann/behavioral-cloning-make-a-car-drive-like-yourself-dc6021152713)
+    * Avoid max pool layer 
+    * [Github](https://github.com/ksakmann/CarND-BehavioralCloning/blob/master/model.ipynb)
+* [How large should the batch size be for stochastic gradient descent?](https://stats.stackexchange.com/questions/140811/how-large-should-the-batch-size-be-for-stochastic-gradient-descent)
+
+
 ### Dependencies
 This lab requires:
 
